@@ -1,3 +1,9 @@
 hi Team
+<<<<<<< HEAD
+hello world
+good morning
+using git revert and rest
+=======
 hello sanath here
 sanath here trying fetch
+>>>>>>> c2507ae2d2510efefceccf40c893818dcfac07b5
